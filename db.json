@@ -7,14 +7,11 @@
     }
     {
       status: false,
-    ResponeCode: 0,
-    ResponeMsg: {
-       status_code: 500,
-          data: "Internal Server Error"
-    }
+      ResponeCode: 0,
+      ResponeMsg: {
+         status_code: 500,
+         data: "Internal Server Error"
+        }
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
