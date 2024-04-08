@@ -1,17 +1,6 @@
-{
-  "posts": [
-    {
-     status: true, 
-      ResponeCode: 1,
-      ResponeMsg: "SUCCESS"
-    }
-    {
-      status: false,
-      ResponeCode: 0,
-      ResponeMsg: {
+  status: false,
+  ResponeCode: 0,
+  ResponeMsg: {
          status_code: 500,
          data: "Internal Server Error"
         }
-    }
-  ],
-}
